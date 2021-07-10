@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FacebookHomePageClone/static/css/main.cfe42753.chunk.css",
+    "main.js": "/FacebookHomePageClone/static/js/main.8c0597c5.chunk.js",
+    "main.js.map": "/FacebookHomePageClone/static/js/main.8c0597c5.chunk.js.map",
+    "runtime-main.js": "/FacebookHomePageClone/static/js/runtime-main.1ea09831.js",
+    "runtime-main.js.map": "/FacebookHomePageClone/static/js/runtime-main.1ea09831.js.map",
+    "static/js/2.6f5ccd94.chunk.js": "/FacebookHomePageClone/static/js/2.6f5ccd94.chunk.js",
+    "static/js/2.6f5ccd94.chunk.js.map": "/FacebookHomePageClone/static/js/2.6f5ccd94.chunk.js.map",
+    "static/js/3.bfee7415.chunk.js": "/FacebookHomePageClone/static/js/3.bfee7415.chunk.js",
+    "static/js/3.bfee7415.chunk.js.map": "/FacebookHomePageClone/static/js/3.bfee7415.chunk.js.map",
+    "index.html": "/FacebookHomePageClone/index.html",
+    "static/css/main.cfe42753.chunk.css.map": "/FacebookHomePageClone/static/css/main.cfe42753.chunk.css.map",
+    "static/js/2.6f5ccd94.chunk.js.LICENSE.txt": "/FacebookHomePageClone/static/js/2.6f5ccd94.chunk.js.LICENSE.txt",
+    "static/media/profile_pic.d7039418.jpg": "/FacebookHomePageClone/static/media/profile_pic.d7039418.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ea09831.js",
+    "static/js/2.6f5ccd94.chunk.js",
+    "static/css/main.cfe42753.chunk.css",
+    "static/js/main.8c0597c5.chunk.js"
+  ]
+}
