@@ -1,0 +1,5 @@
+.sidebar{
+    flex: 0.3;
+    padding: 25px 10px;
+    min-width: fit-content;
+}

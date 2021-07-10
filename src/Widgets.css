@@ -1,0 +1,6 @@
+.widgets{
+    flex: 0.3;
+    min-width: fit-content;
+    padding-top: 40px;
+}
+
